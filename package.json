@@ -1,0 +1,22 @@
+{
+    "name": "@nikitin/hello",
+    "version": "1.0.0",
+    "description": "today is friday?",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nikitinqadmitriy/public_autotests.git"
+    },
+    "keywords": [
+        "WDS"
+    ],
+    "author": "Nikitin Dmitriy",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/nikitinqadmitriy/public_autotests.git"
+    },
+    "homepage": "https://github.com/nikitinqadmitriy/public_autotests.git#readme"
+}
